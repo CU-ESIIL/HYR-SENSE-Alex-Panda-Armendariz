@@ -12,3 +12,8 @@ Alex "Panda" Armendariz (Mescalero Apache descendant) is an Indigenous scholar a
 **Projects**
 
 In this section, the various projects worked on through the HYR-SENSE 2024 Workshop will be displayed here.
+
+ECOSTRESS
+
+
+EMIT
